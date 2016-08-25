@@ -1,4 +1,4 @@
-package com.gumtree.discovery.srv;
+package com.example.discovery.srv;
 
 import com.spotify.dns.DnsSrvResolver;
 import com.spotify.dns.DnsSrvResolvers;
